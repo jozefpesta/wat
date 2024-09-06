@@ -6,4 +6,4 @@ Výsledek [webová stránka](https://jozefpesta.github.io/wat/)
 
 ## vajglos
 
-pofel ![obrázek](obrazki\ROBUux.png)
+pofel ![obrázek](obrazki/ROBUux.png)
