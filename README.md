@@ -1,5 +1,9 @@
-# vizitka-2023
+# Repozitář VIZITKA
 
-Šablona projektu pro cvičení práce s Gitem.
+Da 1st one.
 
-Postupujte podle zadání [cvičení Vizitka](https://kodim.cz/kurzy/daweb/zaklady-gitu/uvod-do-gitu/cviceni-vizitka).
+Výsledek [webová stránka](https://jozefpesta.github.io/wat/)
+
+## vajglos
+
+pofel ![obrázek](obrazki\ROBUux.png)
